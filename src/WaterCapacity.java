@@ -1,6 +1,6 @@
 /**
  * Created by DixonShen on 2016/4/1.
- * Twitterm面试题之装水问题
+ * Twitter面试题之装水问题
  */
 public class WaterCapacity {
 
